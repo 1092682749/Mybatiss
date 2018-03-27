@@ -19,5 +19,6 @@
     </environments>
     <mappers>
         <mapper resource="com/jee/mapper/dao/RoleMapper.xml"></mapper>
+        <mapper resource="com/jee/mapper/Instences/roleMapper.xml"></mapper>
     </mappers>
 </configuration>
